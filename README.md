@@ -9,13 +9,14 @@ In this project we analyze a dataset using SQL
 
 # Questions answered / Tasks while analyzing this dataset: 
 
-1. -- Converting String to date format
-- I assigned empty entries as NULL
-- Querying the distinct data from all of the columns  
-- he sentiment of customers satisfaction as a percentage
+1. Converting String to date format
+2. I assigned empty entries as NULL
+3. Querying the distinct data from all of the columns  
+4. he sentiment of customers satisfaction as a percentage
 
 
-### The aggregations in this project show..
+
+## The aggregations in this project show..
 
 * The most successful call center locations 
 * The average sentiment for the reason customers are reaching out 
