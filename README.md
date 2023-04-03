@@ -21,4 +21,5 @@ In this project we analyze a dataset using SQL
 * The most successful call center locations 
 * The average sentiment for the reason customers are reaching out 
 * The most common issue behind the customers' calls 
+* The states experiencing the most issues 
 
