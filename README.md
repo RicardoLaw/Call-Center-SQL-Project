@@ -14,8 +14,8 @@ In this project we analyze a dataset using SQL
 - Querying the distinct data from all of the columns  
 - he sentiment of customers satisfaction as a percentage
 
-### Aggregations show
-_____________________
+## The aggregations in this project show..
+## _____________________
 * The most successful call center locations 
 * The average sentiment for the reason customers are reaching out 
 * The most common issue behind the customers' calls 
